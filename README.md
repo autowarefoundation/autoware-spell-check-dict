@@ -99,6 +99,6 @@ Please install [Code Spell Checker](https://marketplace.visualstudio.com/items?i
 ## Credits
 
 This repository was mirrored from [tier4/autoware-spell-check-dict](https://github.com/tier4/autoware-spell-check-dict) on **2024-11-27**.  
-The original repository was created by [Tier IV, Inc.](https://tier4.jp/en/).
+The original repository was created by [TIER IV, Inc.](https://tier4.jp/en/).
 
 We extend our gratitude to the original authors and contributors for their efforts and dedication.
