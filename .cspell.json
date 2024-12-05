@@ -896,6 +896,7 @@
     "inpaints",
     "inplace",
     "insertafter",
+    "interp",
     "interpolatable",
     "intrinsics",
     "ioff",
