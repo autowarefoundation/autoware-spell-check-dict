@@ -220,6 +220,7 @@
       "ignoreRegExpList": [
         "Copyright (\\(c\\))?.+$",
         "FIXME( )?\\(.+?\\)",
+        "NOTE( )?\\(.+?\\)",
         "TODO( )?\\(.+?\\)"
       ]
     },
