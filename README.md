@@ -30,7 +30,7 @@ The words you inserted into the json will be **sorted automatically** by GitHub 
 
 ### Easy-to-add a word using workflow
 
-With the [add-word workflow](https://github.com/tier4/autoware-spell-check-dict/actions/workflows/add-word.yaml), you can create a pull request to add a word to `.cspell.json`.
+With the [add-word workflow](https://github.com/autowarefoundation/autoware-spell-check-dict/actions/workflows/add-word.yaml), you can create a pull request to add a word to `.cspell.json`.
 
 ![image](https://user-images.githubusercontent.com/12395284/232272339-ec5edcee-cc67-45a8-badc-fc4edb7d9390.png)
 
@@ -60,7 +60,7 @@ $ yarn global add https://github.com/tier4/cspell-dicts
 
 # Copy the dictionary into your environment
 $ cd /your-project-dir
-$ wget -O .cspell.json https://raw.githubusercontent.com/tier4/autoware-spell-check-dict/main/.cspell.json
+$ wget -O .cspell.json https://raw.githubusercontent.com/autowarefoundation/autoware-spell-check-dict/main/.cspell.json
 
 # Check spelling
 $ cspell /path/to/src/*.cpp /path/to/include/*.hpp
