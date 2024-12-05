@@ -545,6 +545,7 @@
     "CUDA",
     "CUDART",
     "cudnn",
+    "cumsum",
     "cuRAND",
     "cutecom",
     "CVPR",
