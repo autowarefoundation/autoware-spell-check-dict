@@ -270,7 +270,6 @@
     "VSCode"
   ],
   "words": [
-    "reconstructor",
     "aabb",
     "aarch",
     "abspath",
@@ -1514,6 +1513,7 @@
     "realpath",
     "Reasm",
     "reclass",
+    "reconstructor",
     "recvmsgs",
     "reindex",
     "Reindexer",
