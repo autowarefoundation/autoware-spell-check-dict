@@ -1513,6 +1513,7 @@
     "realpath",
     "Reasm",
     "reclass",
+    "reconstructor",
     "recvmsgs",
     "reindex",
     "Reindexer",
