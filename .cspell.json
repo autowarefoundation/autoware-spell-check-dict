@@ -1255,6 +1255,7 @@
     "noexcept",
     "NOLINT",
     "NOLINTBEGIN",
+    "NOLINTEND",
     "NOLINTNEXTLINE",
     "noncopyable",
     "nondecreasing",
