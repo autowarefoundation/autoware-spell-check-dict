@@ -98,7 +98,9 @@
         "imageio",
         "linewidth",
         "maintainer(_email)?=.*$",
-        "mimsave"
+        "mimsave",
+        "itemsize",
+        "nans"
       ]
     },
     {
