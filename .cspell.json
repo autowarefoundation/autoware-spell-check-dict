@@ -40,6 +40,7 @@
     "**/external/**",
     "**/install/**",
     "**/log/**",
+    "**/mkdocs.yaml",
     "**/package-lock.json",
     "**/public/**",
     "**/reports*/**"
@@ -363,6 +364,7 @@
     "axhline",
     "Axisd",
     "Axisf",
+    "azim",
     "axvline",
     "backport",
     "backports",
@@ -1989,6 +1991,7 @@
     "Yukihiro",
     "yuyv",
     "ywheel",
+    "zdir",
     "zeromq",
     "Zhang",
     "Zhmoginov",
