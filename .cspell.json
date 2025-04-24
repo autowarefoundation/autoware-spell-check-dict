@@ -425,6 +425,7 @@
     "bugtracker",
     "buildcache",
     "BUILDKIT",
+    "buildkitd",
     "buildsystem",
     "buildtool",
     "buildtools",
