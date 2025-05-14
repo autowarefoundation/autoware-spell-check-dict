@@ -273,7 +273,6 @@
     "VSCode"
   ],
   "words": [
-    "Tkinter",
     "aabb",
     "aarch",
     "abspath",
@@ -1802,6 +1801,7 @@
     "timespec",
     "timezone",
     "tinyxml",
+    "Tkinter",
     "TL",
     "TLBR",
     "TLR",
