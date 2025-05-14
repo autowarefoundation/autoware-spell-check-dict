@@ -1801,6 +1801,7 @@
     "timespec",
     "timezone",
     "tinyxml",
+    "Tkinter",
     "TL",
     "TLBR",
     "TLR",
