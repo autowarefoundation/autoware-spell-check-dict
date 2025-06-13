@@ -273,7 +273,6 @@
     "VSCode"
   ],
   "words": [
-    "quantiles",
     "aabb",
     "aarch",
     "abspath",
@@ -1504,6 +1503,7 @@
     "qtquick",
     "qttools",
     "quantile",
+    "quantiles",
     "quantizer",
     "Quaterniond",
     "Quaternionf",
