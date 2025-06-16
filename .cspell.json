@@ -1503,6 +1503,7 @@
     "qtquick",
     "qttools",
     "quantile",
+    "quantiles",
     "quantizer",
     "Quaterniond",
     "Quaternionf",
