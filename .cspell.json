@@ -273,7 +273,6 @@
     "VSCode"
   ],
   "words": [
-    "hmul",
     "aabb",
     "aarch",
     "abspath",
@@ -868,6 +867,7 @@
     "histo",
     "hline",
     "Hmat",
+    "hmul",
     "hnote",
     "homography",
     "Hooi",
