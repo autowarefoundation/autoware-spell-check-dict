@@ -1,3 +1,6 @@
 .idea/
 .vscode/
 *.pyc
+
+# pre-commit run creates this folder
+/node_modules/
