@@ -273,7 +273,6 @@
     "VSCode"
   ],
   "words": [
-    "bevformer",
     "aabb",
     "aarch",
     "abspath",
@@ -386,6 +385,7 @@
     "behaviours",
     "betweenx",
     "bevdet",
+    "bevformer",
     "bevfusion",
     "bezier",
     "BGGR",
