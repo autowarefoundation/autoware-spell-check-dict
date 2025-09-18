@@ -273,7 +273,6 @@
     "VSCode"
   ],
   "words": [
-    "introspectability",
     "aabb",
     "aarch",
     "abspath",
@@ -920,6 +919,7 @@
     "interp",
     "interpolatable",
     "intrinsics",
+    "introspectability",
     "ioff",
     "iowait",
     "ipairs",
