@@ -923,6 +923,7 @@
     "interp",
     "interpolatable",
     "intrinsics",
+    "introspectability",
     "ioff",
     "iowait",
     "ipairs",
