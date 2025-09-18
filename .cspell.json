@@ -1,6 +1,6 @@
 {
   "version": "0.2",
-  "language": "en",
+  "language": "en, en-US, en-GB",
   "allowCompoundWords": false,
   "ignorePaths": [
     "**/*.caffemodel",
@@ -54,6 +54,7 @@
   ],
   "import": [
     "@cspell/dict-cpp/cspell-ext.json",
+    "@cspell/dict-data-science/cspell-ext.json",
     "@cspell/dict-en-gb/cspell-ext.json",
     "@cspell/dict-en_us/cspell-ext.json",
     "@cspell/dict-software-terms/cspell-ext.json",
@@ -61,6 +62,9 @@
     "@tier4/cspell-dicts/cmake/cspell-ext.json",
     "@tier4/cspell-dicts/organization-names/cspell-ext.json",
     "@tier4/cspell-dicts/people-names/cspell-ext.json"
+  ],
+  "dictionaries": [
+    "data-science"
   ],
   "languageSettings": [
     {
