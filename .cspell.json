@@ -277,7 +277,6 @@
     "VSCode"
   ],
   "words": [
-    "bgra",
     "aabb",
     "aarch",
     "abspath",
@@ -395,6 +394,7 @@
     "bevfusion",
     "bezier",
     "BGGR",
+    "bgra",
     "bhattacharyya",
     "bibtex",
     "bigendian",
