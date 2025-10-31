@@ -277,7 +277,6 @@
     "VSCode"
   ],
   "words": [
-    "gencode",
     "aabb",
     "aarch",
     "abspath",
@@ -797,6 +796,7 @@
     "gedit",
     "geekdoc",
     "gencfg",
+    "gencode",
     "gencolors",
     "genhtml",
     "genlmsg",
