@@ -277,7 +277,6 @@
     "VSCode"
   ],
   "words": [
-    "mlvl",
     "aabb",
     "aarch",
     "abspath",
@@ -1202,6 +1201,7 @@
     "mktemp",
     "mlmodel",
     "mlmodels",
+    "mlvl",
     "mmclassification",
     "MMCV",
     "mmdeploy",
