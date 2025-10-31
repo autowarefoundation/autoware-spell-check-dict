@@ -277,7 +277,6 @@
     "VSCode"
   ],
   "words": [
-    "timesteps",
     "aabb",
     "aarch",
     "abspath",
@@ -1830,6 +1829,7 @@
     "timedelta",
     "timeseries",
     "timespec",
+    "timesteps",
     "timezone",
     "tinyxml",
     "Tkinter",
