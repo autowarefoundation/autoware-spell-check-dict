@@ -277,7 +277,6 @@
     "VSCode"
   ],
   "words": [
-    "preds",
     "aabb",
     "aarch",
     "abspath",
@@ -1454,6 +1453,7 @@
     "preconfigure",
     "preconfigured",
     "precrash",
+    "preds",
     "prepend",
     "prepended",
     "preprocess",
