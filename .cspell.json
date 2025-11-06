@@ -1830,6 +1830,7 @@
     "timeseries",
     "timespec",
     "timestep",
+    "timesteps",
     "timezone",
     "tinyxml",
     "Tkinter",
