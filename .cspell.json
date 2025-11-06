@@ -1829,6 +1829,7 @@
     "timedelta",
     "timeseries",
     "timespec",
+    "timestep",
     "timesteps",
     "timezone",
     "tinyxml",
