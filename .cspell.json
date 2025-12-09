@@ -277,7 +277,6 @@
     "VSCode"
   ],
   "words": [
-    "rstrip",
     "aabb",
     "aarch",
     "abspath",
@@ -1650,6 +1649,7 @@
     "rrtstar",
     "rsplit",
     "rstar",
+    "rstrip",
     "rsyslog",
     "RTKLIB",
     "rtmdet",
