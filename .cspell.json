@@ -277,7 +277,6 @@
     "VSCode"
   ],
   "words": [
-    "drac",
     "aabb",
     "aarch",
     "abspath",
@@ -679,6 +678,7 @@
     "Doxyfile",
     "doxygen",
     "dpkg",
+    "drac",
     "drawio",
     "Driveable",
     "driveworks",
