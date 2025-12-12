@@ -55,8 +55,10 @@
   "import": [
     "@cspell/dict-cpp/cspell-ext.json",
     "@cspell/dict-data-science/cspell-ext.json",
+    "@cspell/dict-docker/cspell-ext.json",
     "@cspell/dict-en-gb/cspell-ext.json",
     "@cspell/dict-en_us/cspell-ext.json",
+    "@cspell/dict-python/cspell-ext.json",
     "@cspell/dict-software-terms/cspell-ext.json",
     "@tier4/cspell-dicts/city-names/cspell-ext.json",
     "@tier4/cspell-dicts/cmake/cspell-ext.json",
