@@ -277,7 +277,6 @@
     "VSCode"
   ],
   "words": [
-    "calculatable",
     "aabb",
     "aarch",
     "abspath",
@@ -449,6 +448,7 @@
     "cadetblue",
     "Caffe",
     "caffemodel",
+    "calculatable",
     "calib",
     "callees",
     "calloc",
