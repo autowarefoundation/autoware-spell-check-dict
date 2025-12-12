@@ -1651,6 +1651,7 @@
     "rrtstar",
     "rsplit",
     "rstar",
+    "rstrip",
     "rsyslog",
     "RTKLIB",
     "rtmdet",
