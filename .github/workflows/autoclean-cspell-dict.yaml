@@ -48,3 +48,5 @@ jobs:
 
             ${{ steps.cleanup.outputs.stdout }}
           labels: bot
+          signoff: true
+          add-paths: .cspell.json
