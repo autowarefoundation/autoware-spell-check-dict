@@ -21,8 +21,10 @@ async function checkSpelling(phrase: string, config: CSpellUserSettings) {
       maxNumberOfProblems: 10000,
     },
   );
-  const json = JSON.stringify(result, null, 2);
-  await fs.writeFile("cspell-check-result.json", json, "utf-8");
+
+  // For debugging purposes, you can uncomment the following line to save the full result
+  // const json = JSON.stringify(result, null, 2);
+  // await fs.writeFile("cspell-check-result.json", json, "utf-8");
   return result.issues;
 }
 
