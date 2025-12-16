@@ -1,4 +1,4 @@
-name: Cleanup dictionary
+name: autoclean-cspell-dict
 
 on:
   push:

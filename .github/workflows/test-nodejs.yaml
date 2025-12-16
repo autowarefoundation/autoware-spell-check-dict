@@ -1,4 +1,4 @@
-name: Node.js test workflow
+name: test-nodejs
 
 on:
   pull_request:
