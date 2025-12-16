@@ -5,7 +5,7 @@ on:
     types: [opened, synchronize, reopened]
 
 jobs:
-  pytest:
+  test:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository
