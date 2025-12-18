@@ -44,13 +44,19 @@ In `package.json`, the following upstream dictionaries are used as dependencies.
 
 - `@cspell/dict-en-gb`
 - `@cspell/cspell-bundled-dicts`
-- (`@tier4/cspell-dicts`: Provided by GitHub repository)
+- `@tier4/cspell-dicts`: Provided by [GitHub repository](https://github.com/tier4/cspell-dicts)
 
 To update them, run the following command and send a pull-request to this repository.
 
 ```shell
-npm update @cspell/dict-en-gb @cspell/cspell-bundled-dicts
+# Update specific packages (RECOMMENDED)
+npm update @tier4/cspell-dicts
+
+# Update all packages (potentially including breaking changes)
+npm update
 ```
+
+NOTE: You need to update `@tier4/cspell-dicts` after it is updated, as `package-lock.json` contains the specific commit hash to be used.
 
 ## How to check spelling with the dictionary in your local environment
 
