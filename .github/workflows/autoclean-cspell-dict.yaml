@@ -22,6 +22,11 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+      - name: Update upstream dictionaries
+        # Update to get the latest words from upstream dictionaries
+        # Note: Add more dictionaries here if more dependencies are added in the future
+        run: npm update @tier4/cspell-dicts @cspell/dict-en-gb @cspell/cspell-bundled-dicts
+
       - name: Run cleanup script
         id: cleanup
         run: |
@@ -49,4 +54,6 @@ jobs:
             ${{ steps.cleanup.outputs.stdout }}
           labels: bot
           signoff: true
-          add-paths: .cspell.json
+          add-paths: |
+            .cspell.json
+            package-lock.json

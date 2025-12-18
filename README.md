@@ -44,12 +44,18 @@ In `package.json`, the following upstream dictionaries are used as dependencies.
 
 - `@cspell/dict-en-gb`
 - `@cspell/cspell-bundled-dicts`
-- (`@tier4/cspell-dicts`: Provided by GitHub repository)
+- `@tier4/cspell-dicts`: Provided by [GitHub repository](https://github.com/tier4/cspell-dicts)
 
 To update them, run the following command and send a pull-request to this repository.
 
+Note: `autoclean-cspell-dict.yaml` workflow has update feature to keep the dictionaries up-to-date automatically.
+
 ```shell
-npm update @cspell/dict-en-gb @cspell/cspell-bundled-dicts
+# Update specific packages (RECOMMENDED)
+npm update @tier4/cspell-dicts
+
+# Update all packages (potentially including breaking changes)
+npm update
 ```
 
 ## How to check spelling with the dictionary in your local environment
