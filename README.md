@@ -48,6 +48,8 @@ In `package.json`, the following upstream dictionaries are used as dependencies.
 
 To update them, run the following command and send a pull-request to this repository.
 
+Note: `autoclean-cspell-dict.yaml` workflow has update feature to keep the dictionaries up-to-date automatically.
+
 ```shell
 # Update specific packages (RECOMMENDED)
 npm update @tier4/cspell-dicts
@@ -55,8 +57,6 @@ npm update @tier4/cspell-dicts
 # Update all packages (potentially including breaking changes)
 npm update
 ```
-
-NOTE: You need to update `@tier4/cspell-dicts` after it is updated, as `package-lock.json` contains the specific commit hash to be used.
 
 ## How to check spelling with the dictionary in your local environment
 
