@@ -280,7 +280,6 @@
     "VSCode"
   ],
   "words": [
-    "cppzmq",
     "aabb",
     "aarch",
     "abspath",
@@ -490,6 +489,7 @@
     "cppcheck",
     "cppcoreguidelines",
     "cpprest",
+    "cppzmq",
     "cprint",
     "cpufreq",
     "cpunum",
