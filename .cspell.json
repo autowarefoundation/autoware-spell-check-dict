@@ -489,6 +489,7 @@
     "cppcheck",
     "cppcoreguidelines",
     "cpprest",
+    "cppzmq",
     "cprint",
     "cpufreq",
     "cpunum",
