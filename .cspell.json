@@ -1337,6 +1337,7 @@
     "rrtstar",
     "rsplit",
     "rstar",
+    "rstrip",
     "RTKLIB",
     "rtmdet",
     "RTNL",
