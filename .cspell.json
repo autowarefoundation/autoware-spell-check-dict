@@ -280,7 +280,6 @@
     "VSCode"
   ],
   "words": [
-    "rustc",
     "aabb",
     "aarch",
     "abspath",
@@ -1306,6 +1305,7 @@
     "rtree",
     "rtype",
     "ruamel",
+    "rustc",
     "Rvec",
     "SACMODEL",
     "saddlebrown",
