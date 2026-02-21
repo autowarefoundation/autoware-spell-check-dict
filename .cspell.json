@@ -283,7 +283,6 @@
     "VSCode"
   ],
   "words": [
-    "sympy",
     "aabb",
     "aarch",
     "abspath",
@@ -1400,6 +1399,7 @@
     "swapfile",
     "swapoff",
     "swapon",
+    "sympy",
     "sysfs",
     "sysstat",
     "tableofcontents",
