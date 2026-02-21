@@ -283,7 +283,6 @@
     "VSCode"
   ],
   "words": [
-    "casadi",
     "aabb",
     "aarch",
     "abspath",
@@ -419,6 +418,7 @@
     "capwords",
     "carcolor",
     "carryforward",
+    "casadi",
     "cassert",
     "catmull",
     "cbar",
