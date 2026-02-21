@@ -1486,6 +1486,7 @@
     "UYVY",
     "vconcat",
     "vcpu",
+    "vcpus",
     "vcutils",
     "VECU",
     "Velarray",
