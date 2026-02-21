@@ -1485,6 +1485,7 @@
     "UTMUPS",
     "UYVY",
     "vconcat",
+    "vcpu",
     "vcutils",
     "VECU",
     "Velarray",
