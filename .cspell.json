@@ -283,7 +283,6 @@
     "VSCode"
   ],
   "words": [
-    "vcpu",
     "aabb",
     "aarch",
     "abspath",
@@ -1486,6 +1485,7 @@
     "UTMUPS",
     "UYVY",
     "vconcat",
+    "vcpu",
     "vcutils",
     "VECU",
     "Velarray",
