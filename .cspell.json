@@ -460,6 +460,7 @@
     "commonpath",
     "commonprefix",
     "concatenator",
+    "configurator",
     "ConOps",
     "consecutives",
     "Consolas",
