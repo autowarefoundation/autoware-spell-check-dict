@@ -283,7 +283,6 @@
     "VSCode"
   ],
   "words": [
-    "sched",
     "aabb",
     "aarch",
     "abspath",
@@ -1320,6 +1319,7 @@
     "savefig",
     "savetxt",
     "sbsa",
+    "sched",
     "schemafile",
     "Schwarz",
     "scipy",
