@@ -283,7 +283,6 @@
     "VSCode"
   ],
   "words": [
-    "userdel",
     "aabb",
     "aarch",
     "abspath",
@@ -1484,6 +1483,7 @@
     "usbguard",
     "usbutils",
     "USECASE",
+    "userdel",
     "usermod",
     "userspace",
     "USIM",
