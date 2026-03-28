@@ -609,6 +609,7 @@
     "enarmor",
     "endfor",
     "endforeach",
+    "endgroup",
     "endl",
     "enduml",
     "ensurepath",
