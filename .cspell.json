@@ -283,7 +283,6 @@
     "VSCode"
   ],
   "words": [
-    "endgroup",
     "aabb",
     "aarch",
     "abspath",
@@ -610,6 +609,7 @@
     "enarmor",
     "endfor",
     "endforeach",
+    "endgroup",
     "endl",
     "enduml",
     "ensurepath",
