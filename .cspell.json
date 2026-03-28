@@ -625,6 +625,7 @@
     "extractall",
     "extrinsics",
     "facecolor",
+    "fallocate",
     "farocan",
     "farocand",
     "FASTCRC",
