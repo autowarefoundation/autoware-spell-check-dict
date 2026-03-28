@@ -283,7 +283,6 @@
     "VSCode"
   ],
   "words": [
-    "fallocate",
     "aabb",
     "aarch",
     "abspath",
@@ -626,6 +625,7 @@
     "extractall",
     "extrinsics",
     "facecolor",
+    "fallocate",
     "farocan",
     "farocand",
     "FASTCRC",
