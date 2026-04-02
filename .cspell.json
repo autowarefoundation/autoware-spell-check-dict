@@ -283,7 +283,6 @@
     "VSCode"
   ],
   "words": [
-    "norecursedirs",
     "aabb",
     "aarch",
     "abspath",
@@ -1084,6 +1083,7 @@
     "noprefixroute",
     "noqa",
     "noqueue",
+    "norecursedirs",
     "noreport",
     "northp",
     "Noto",
