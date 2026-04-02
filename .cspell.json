@@ -1083,6 +1083,7 @@
     "noprefixroute",
     "noqa",
     "noqueue",
+    "norecursedirs",
     "noreport",
     "northp",
     "Noto",
