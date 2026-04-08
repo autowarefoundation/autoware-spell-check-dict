@@ -1219,6 +1219,7 @@
     "pybind",
     "pycache",
     "pycodestyle",
+    "pycoverage",
     "pydevproject",
     "pyflakes",
     "pygame",
