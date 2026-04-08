@@ -283,7 +283,6 @@
     "VSCode"
   ],
   "words": [
-    "pycoverage",
     "aabb",
     "aarch",
     "abspath",
@@ -1220,6 +1219,7 @@
     "pybind",
     "pycache",
     "pycodestyle",
+    "pycoverage",
     "pydevproject",
     "pyflakes",
     "pygame",
