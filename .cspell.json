@@ -283,7 +283,6 @@
     "VSCode"
   ],
   "words": [
-    "passwordless",
     "aabb",
     "aarch",
     "abspath",
@@ -1150,6 +1149,7 @@
     "paramtype",
     "parkinglot",
     "parzen",
+    "passwordless",
     "pathlib",
     "paththrough",
     "PCAN",
