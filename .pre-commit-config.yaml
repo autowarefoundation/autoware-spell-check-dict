@@ -34,13 +34,13 @@ repos:
       - id: shellcheck
 
   - repo: https://github.com/scop/pre-commit-shfmt
-    rev: v3.13.0-1
+    rev: v3.13.1-1
     hooks:
       - id: shfmt
         args: [-w, -s, -i=4]
 
   - repo: https://github.com/biomejs/pre-commit
-    rev: v2.4.10 # Use the sha / tag you want to point at
+    rev: v2.4.11 # Use the sha / tag you want to point at
     hooks:
       - id: biome-check
 
