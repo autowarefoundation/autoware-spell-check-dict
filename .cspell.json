@@ -1371,6 +1371,7 @@
     "sregex",
     "sshpass",
     "stairstep",
+    "startswith",
     "startuml",
     "staticmethod",
     "statustip",
