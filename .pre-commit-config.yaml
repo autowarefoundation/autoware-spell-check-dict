@@ -1,6 +1,7 @@
 ci:
   autofix_commit_msg: "ci(pre-commit): autofix"
-  autoupdate_commit_msg: "ci(pre-commit): autoupdate"
+  autoupdate_commit_msg: "ci(pre-commit): quarterly autoupdate"
+  autoupdate_schedule: quarterly
 
 repos:
   - repo: https://github.com/pre-commit/pre-commit-hooks
@@ -18,7 +19,8 @@ repos:
         args: [--markdown-linebreak-ext=md]
 
   - repo: https://github.com/igorshubovych/markdownlint-cli
-    rev: v0.48.0
+    # Pinned: v0.48.0 requires Node ^24.12, but pre-commit.ci ships v24.9.0 (EBADENGINE).
+    rev: v0.47.0
     hooks:
       - id: markdownlint
         args: [-c, .markdownlint.yaml, --fix]
@@ -34,13 +36,13 @@ repos:
       - id: shellcheck
 
   - repo: https://github.com/scop/pre-commit-shfmt
-    rev: v3.13.0-1
+    rev: v3.13.1-1
     hooks:
       - id: shfmt
         args: [-w, -s, -i=4]
 
   - repo: https://github.com/biomejs/pre-commit
-    rev: v2.4.10 # Use the sha / tag you want to point at
+    rev: v2.4.12
     hooks:
       - id: biome-check
 
