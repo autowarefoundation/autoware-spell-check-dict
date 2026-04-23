@@ -283,7 +283,6 @@
     "VSCode"
   ],
   "words": [
-    "pchip",
     "aabb",
     "aarch",
     "abspath",
@@ -1160,6 +1159,7 @@
     "PCAN",
     "pcdmap",
     "pcds",
+    "pchip",
     "pclint",
     "pclomp",
     "peaceiris",
