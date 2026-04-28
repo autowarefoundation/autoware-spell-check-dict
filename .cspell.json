@@ -283,7 +283,6 @@
     "VSCode"
   ],
   "words": [
-    "healthcheck",
     "aabb",
     "aarch",
     "abspath",
@@ -730,6 +729,7 @@
     "hconcat",
     "hdmap",
     "Headerless",
+    "healthcheck",
     "heaphook",
     "Heisenbug",
     "Heisenbugs",
