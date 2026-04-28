@@ -729,6 +729,7 @@
     "hconcat",
     "hdmap",
     "Headerless",
+    "healthcheck",
     "heaphook",
     "Heisenbug",
     "Heisenbugs",
