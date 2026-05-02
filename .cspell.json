@@ -283,7 +283,6 @@
     "VSCode"
   ],
   "words": [
-    "fromarray",
     "aabb",
     "aarch",
     "abspath",
@@ -657,6 +656,7 @@
     "fprofile",
     "fq_codel",
     "frnet",
+    "fromarray",
     "frombuffer",
     "fromtimestamp",
     "ftest",
