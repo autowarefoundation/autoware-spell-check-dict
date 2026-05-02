@@ -656,6 +656,7 @@
     "fprofile",
     "fq_codel",
     "frnet",
+    "fromarray",
     "frombuffer",
     "fromtimestamp",
     "ftest",
