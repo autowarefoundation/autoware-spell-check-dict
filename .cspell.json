@@ -283,7 +283,6 @@
     "VSCode"
   ],
   "words": [
-    "libexpected",
     "aabb",
     "aarch",
     "abspath",
@@ -855,6 +854,7 @@
     "libcusparse",
     "libdpm",
     "libegl",
+    "libexpected",
     "libfontconfig",
     "libfreetype",
     "libgazebo",
