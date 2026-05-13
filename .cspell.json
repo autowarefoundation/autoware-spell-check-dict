@@ -283,7 +283,6 @@
     "VSCode"
   ],
   "words": [
-    "seccomp",
     "aabb",
     "aarch",
     "abspath",
@@ -1341,6 +1340,7 @@
     "scrollok",
     "seaborn",
     "seagreen",
+    "seccomp",
     "septentrio",
     "setcap",
     "setsockopt",
