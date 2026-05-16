@@ -1308,6 +1308,7 @@
     "rootfs",
     "ROS2",
     "rosbags",
+    "roscope",
     "rosinterface",
     "rostopics",
     "rosviz",
