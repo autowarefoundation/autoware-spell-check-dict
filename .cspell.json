@@ -283,7 +283,6 @@
     "VSCode"
   ],
   "words": [
-    "roscope",
     "aabb",
     "aarch",
     "abspath",
@@ -1309,6 +1308,7 @@
     "rootfs",
     "ROS2",
     "rosbags",
+    "roscope",
     "rosinterface",
     "rostopics",
     "rosviz",
