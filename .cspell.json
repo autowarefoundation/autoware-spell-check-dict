@@ -283,7 +283,6 @@
     "VSCode"
   ],
   "words": [
-    "submap",
     "aabb",
     "aarch",
     "abspath",
@@ -1406,6 +1405,7 @@
     "stty",
     "styfle",
     "stylesheet",
+    "submap",
     "submodel",
     "submodels",
     "subpackages",
