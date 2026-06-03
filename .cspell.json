@@ -854,6 +854,7 @@
     "libcusparse",
     "libdpm",
     "libegl",
+    "libexpected",
     "libfontconfig",
     "libfreetype",
     "libgazebo",
