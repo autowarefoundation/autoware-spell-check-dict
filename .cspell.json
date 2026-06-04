@@ -283,7 +283,6 @@
     "VSCode"
   ],
   "words": [
-    "denoising",
     "aabb",
     "aarch",
     "abspath",
@@ -558,6 +557,7 @@
     "DENABLE",
     "denoise",
     "denoised",
+    "denoising",
     "densification",
     "densifier",
     "deque",
