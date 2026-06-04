@@ -283,7 +283,6 @@
     "VSCode"
   ],
   "words": [
-    "cnpy",
     "aabb",
     "aarch",
     "abspath",
@@ -449,6 +448,7 @@
     "cmatch",
     "cmath",
     "cmdline",
+    "cnpy",
     "CodeChecker",
     "codehilite",
     "codeinclude",
