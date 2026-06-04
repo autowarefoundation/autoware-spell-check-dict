@@ -283,7 +283,6 @@
     "VSCode"
   ],
   "words": [
-    "onnxruntime",
     "aabb",
     "aarch",
     "abspath",
@@ -1127,6 +1126,7 @@
     "OMPL",
     "ondemand",
     "oneshot",
+    "onnxruntime",
     "openadk",
     "openadkit",
     "opencontainers",
