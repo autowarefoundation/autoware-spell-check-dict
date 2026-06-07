@@ -448,6 +448,7 @@
     "cmatch",
     "cmath",
     "cmdline",
+    "cnpy",
     "CodeChecker",
     "codehilite",
     "codeinclude",
