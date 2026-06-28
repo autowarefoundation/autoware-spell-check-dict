@@ -750,6 +750,7 @@
     "hspace",
     "hstack",
     "hsub",
+    "huggingface",
     "hwmon",
     "hypot",
     "iarchive",
