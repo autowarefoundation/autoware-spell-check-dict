@@ -1,0 +1,6 @@
+- id: format-cspell-json
+  name: format cspell.json
+  description: Sort and format .cspell.json.
+  entry: scripts/format_cspell_json.mjs
+  language: script
+  files: \.cspell\.json$

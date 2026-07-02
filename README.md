@@ -58,6 +58,20 @@ npm update @tier4/cspell-dicts
 npm update
 ```
 
+## How to format `.cspell.json` with pre-commit
+
+This repository publishes a pre-commit hook to sort and format `.cspell.json`.
+
+Add the following to your `.pre-commit-config.yaml`:
+
+```yaml
+repos:
+  - repo: https://github.com/autowarefoundation/autoware-spell-check-dict
+    rev: v0.2.0
+    hooks:
+      - id: format-cspell-json
+```
+
 ## How to check spelling with the dictionary in your local environment
 
 ### Ubuntu 22.04 or later
