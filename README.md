@@ -67,7 +67,7 @@ Add the following to your `.pre-commit-config.yaml`:
 ```yaml
 repos:
   - repo: https://github.com/autowarefoundation/autoware-spell-check-dict
-    rev: v0.2.0
+    rev: 41d126609b00b291ce7f222d5fa5d5c385585402
     hooks:
       - id: format-cspell-json
 ```
