@@ -20,7 +20,7 @@ repos:
 
   - repo: https://github.com/igorshubovych/markdownlint-cli
     # Pinned: v0.48.0 requires Node ^24.12, but pre-commit.ci ships v24.9.0 (EBADENGINE).
-    rev: v0.47.0
+    rev: v0.49.0
     hooks:
       - id: markdownlint
         args: [-c, .markdownlint.yaml, --fix]
@@ -42,7 +42,7 @@ repos:
         args: [-w, -s, -i=4]
 
   - repo: https://github.com/biomejs/pre-commit
-    rev: v2.4.12
+    rev: v2.5.2
     hooks:
       - id: biome-check
 
