@@ -1350,6 +1350,7 @@
     "seaborn",
     "seagreen",
     "seccomp",
+    "semseg",
     "septentrio",
     "setcap",
     "setsockopt",
