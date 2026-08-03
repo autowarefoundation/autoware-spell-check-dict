@@ -283,7 +283,6 @@
     "VSCode"
   ],
   "words": [
-    "semseg",
     "aabb",
     "aarch",
     "abspath",
@@ -1350,6 +1349,7 @@
     "seaborn",
     "seagreen",
     "seccomp",
+    "semseg",
     "septentrio",
     "setcap",
     "setsockopt",
