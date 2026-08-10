@@ -283,7 +283,6 @@
     "VSCode"
   ],
   "words": [
-    "carlasim",
     "aabb",
     "aarch",
     "abspath",
@@ -419,6 +418,7 @@
     "caplog",
     "capwords",
     "carcolor",
+    "carlasim",
     "carryforward",
     "casadi",
     "cassert",
