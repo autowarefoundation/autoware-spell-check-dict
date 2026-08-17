@@ -1212,6 +1212,7 @@
     "prestart",
     "pretranslate",
     "PROCHOT",
+    "procps",
     "procs",
     "protoc",
     "prototxt",
