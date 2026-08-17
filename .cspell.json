@@ -283,7 +283,6 @@
     "VSCode"
   ],
   "words": [
-    "procps",
     "aabb",
     "aarch",
     "abspath",
@@ -1213,6 +1212,7 @@
     "prestart",
     "pretranslate",
     "PROCHOT",
+    "procps",
     "procs",
     "protoc",
     "prototxt",
