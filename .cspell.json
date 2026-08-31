@@ -283,6 +283,7 @@
     "VSCode"
   ],
   "words": [
+    "libcudacxx",
     "aabb",
     "aarch",
     "abspath",
