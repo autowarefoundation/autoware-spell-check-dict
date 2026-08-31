@@ -283,7 +283,6 @@
     "VSCode"
   ],
   "words": [
-    "CCCL",
     "aabb",
     "aarch",
     "abspath",
@@ -428,6 +427,7 @@
     "cbegin",
     "cboot",
     "ccache",
+    "CCCL",
     "CCSC",
     "CCSCC",
     "cend",
