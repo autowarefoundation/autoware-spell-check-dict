@@ -283,7 +283,6 @@
     "VSCode"
   ],
   "words": [
-    "libcu",
     "aabb",
     "aarch",
     "abspath",
@@ -854,6 +853,7 @@
     "libc",
     "libclang",
     "libcpprest",
+    "libcu",
     "libcublas",
     "libcudnn",
     "libcurand",
