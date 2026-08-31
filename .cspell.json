@@ -856,6 +856,7 @@
     "libcpprest",
     "libcu",
     "libcublas",
+    "libcudacxx",
     "libcudnn",
     "libcurand",
     "libcusparse",
