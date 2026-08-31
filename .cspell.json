@@ -853,6 +853,7 @@
     "libc",
     "libclang",
     "libcpprest",
+    "libcu",
     "libcublas",
     "libcudnn",
     "libcurand",
