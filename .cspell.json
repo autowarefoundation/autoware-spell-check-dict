@@ -1154,6 +1154,7 @@
     "osqp",
     "osqpsolver",
     "overaccel",
+    "overlayfs",
     "overwriter",
     "oyaml",
     "pacmod",
