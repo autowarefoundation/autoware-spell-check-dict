@@ -283,7 +283,6 @@
     "VSCode"
   ],
   "words": [
-    "gyrometer",
     "aabb",
     "aarch",
     "abspath",
@@ -730,6 +729,7 @@
     "gstreamer",
     "gtkterm",
     "GTSAM",
+    "gyrometer",
     "hadd",
     "hashlib",
     "hatenablogcard",
