@@ -729,6 +729,7 @@
     "gstreamer",
     "gtkterm",
     "GTSAM",
+    "gyrometer",
     "hadd",
     "hashlib",
     "hatenablogcard",
