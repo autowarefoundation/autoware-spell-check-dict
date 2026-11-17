@@ -854,6 +854,7 @@
     "libbluetooth",
     "libboost",
     "libc",
+    "libcereal",
     "libclang",
     "libcpprest",
     "libcu",
