@@ -283,7 +283,6 @@
     "VSCode"
   ],
   "words": [
-    "libcereal",
     "aabb",
     "aarch",
     "abspath",
@@ -855,6 +854,7 @@
     "libbluetooth",
     "libboost",
     "libc",
+    "libcereal",
     "libclang",
     "libcpprest",
     "libcu",
